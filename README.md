@@ -1,4 +1,4 @@
-# awesome-scientific-templates
+# Awesome Scientific Templates
 A list of awesome scientific (LaTeX, typst, etc.) templates, feel free to contribute.
 
 ## Preprints
